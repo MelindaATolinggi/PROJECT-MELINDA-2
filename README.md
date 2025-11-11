@@ -27,7 +27,7 @@ mkdir src doc data
 touch README.md src/main.sh
 ~~~
 
-# Menampilkan ukuran project_os dalam format yang mudah dibaca :
+# Menampilkan ukuran project dalam format yang mudah dibaca :
 ~~~
 du -sh
 ~~~
