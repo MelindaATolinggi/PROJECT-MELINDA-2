@@ -27,6 +27,11 @@ mkdir src doc data
 touch README.md src/main.sh
 ~~~
 
+# Menampilkan ukuran project_os dalam format yang mudah dibaca :
+~~~
+du -sh
+~~~
+
 [Deskripsi gambar] (https://drive.google.com/file/d/15GwsAprczq1ts9ocDz4fd0KMgFBlUD4E/view?usp=drive_link)
 
 # Menampilkan struktur direktori :
